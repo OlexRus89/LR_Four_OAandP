@@ -1,0 +1,3 @@
+38
+118293000
+X X X X 5 5 X X X X X X X X 5 5 5 X X X 5 X X X X 5 X X X X X X X X X X 5 X 5 5 X X X 5 X X X X X 5 5 5 5 5 X X X X X X 5 X X X X X X X X X 5 X X X X X 5 X X X X X X X X X X X X X X X 5 X X 5 X X X X X X X 5 X X X X X X X X 5 X X X X X X X 5 5 X X 5 X X X X X X 5 5 X X X 5 5 X X 5 5 5 X X X X X 5 X X X 5 X X X 5 X X X X X X X X X X 5 5 X X X X 5 X 5 5 X X X X X X X X X 5 5 5 X X X 5 X 5 5 X X X X X X 5 X X X X 5 X X 5 X X X X X X X 5 5 X X 5 X X 5 X X 5 5 X X X X X X X 5 X X X 5 X X X X 5 X X X 5 X X X X X X X X X X X 5 5 X X X X X X X X X X X X X X X X 5 X X X X X X X X X X X X X X X X X X 5 X X X X X X 5 5 X X X 5 5 5 X X X X 5 5 5 X X X X X X 5 X X X 5 X X X X X 5 X X X X X 5 X X X X X X 
